@@ -20,7 +20,7 @@
 
    + php 7.4.9
    + Laravel 8.83.27
-   + Mysql 15.1
+   + Mysql 8.0.26
 
 ## URL
 
